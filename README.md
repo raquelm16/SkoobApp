@@ -1,3 +1,5 @@
-# Skoob App
+<h1 align='center'> Skoob App </h1>
 
-Não esqueça de baixar as pastas `.expo` e `node_modules`
+<h3>Requisitos:</h3>
+
+Baixar as pastas `.expo` e `node_modules` no terminal do projeto.
